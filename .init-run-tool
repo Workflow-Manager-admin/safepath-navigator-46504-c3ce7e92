@@ -1,0 +1,4 @@
+{
+    "command": "sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/safepath-navigator-46504-c3ce7e92/safe_route_db"
+}
